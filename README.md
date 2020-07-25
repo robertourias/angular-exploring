@@ -1,1 +1,1 @@
-# angular-tricks
+# angular-exploring
